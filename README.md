@@ -1,7 +1,6 @@
 # 📄 Mémoire de fin d'études – Impact de l'IA sur la performance des entreprises
 
-Coécrit par **Alexandra Romensky** et **Yannaël SIMON**
-IPAG Business School – Master 2  
+Coécrit par **Alexandra Romensky** et **Yannaël SIMON** -- IPAG Business School – Master 2  
 Publié en mai 2022
 
 ---
